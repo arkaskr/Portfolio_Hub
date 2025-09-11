@@ -124,8 +124,8 @@ const Home = () => {
                   AS
                 </div>
                 <div className="text-center md:text-left flex-1">
-                  <h3 className="text-2xl font-bold mb-2">Alex Smith</h3>
-                  <p className="text-muted-foreground mb-4">Full Stack Developer | Computer Science @ MIT</p>
+                  <h3 className="text-2xl font-bold mb-2">Arka Sarkar</h3>
+                  <p className="text-muted-foreground mb-4">Full Stack Developer | Computer Science @ Brainware University</p>
                   <div className="flex flex-wrap gap-2 justify-center md:justify-start">
                     <Badge variant="secondary">React</Badge>
                     <Badge variant="secondary">Node.js</Badge>
